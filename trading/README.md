@@ -29,3 +29,7 @@ d. Volume Indicators: Analyzing trading volume can provide insights into the str
 
 e. Volatility Indicators: Tools like the Bollinger Bands or the Average True Range (ATR) can help traders gauge market volatility, helping them set stop losses or identify potential breakouts.
 ```
+
+#### chapter 4
+
+- We need to think about the future in terms of possibilities and probabilities rather than in terms of prediction. /// Fuck it, I love this concept
